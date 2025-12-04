@@ -6,7 +6,7 @@
 
 ### 📝 Summary
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas - 3º Semestre
-- 💻 Focado em aprender e desenvolver projetos backend Java e
+- 💻 Focado em aprender e desenvolver projetos backend Java
 - 🚀 Sempre aprendendo novas tecnologias  
 
 ---
