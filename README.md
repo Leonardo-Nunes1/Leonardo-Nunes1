@@ -14,7 +14,7 @@
 ### 🛠 Tech Stack
 
 **Languages:**  
-![Java][![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)](https://github.com/Leonardo-Nunes1/Codigos-em-Java
+[![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)](https://github.com/Leonardo-Nunes1/Codigos-em-Java
 )
 
 
