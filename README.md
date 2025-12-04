@@ -5,8 +5,8 @@
 ---
 
 ### 📝 Summary
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-- 💻 Focado em aprender e desenvolver projetos backend e frontend  
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas - 3º Semestre
+- 💻 Focado em aprender e desenvolver projetos backend Java e
 - 🚀 Sempre aprendendo novas tecnologias  
 
 ---
@@ -15,8 +15,6 @@
 
 **Languages:**  
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
 **Databases:**  
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
@@ -37,4 +35,4 @@
 ---
 
 ### 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](seu_link)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]([seu_link](https://www.instagram.com/leonardonuness__/))
