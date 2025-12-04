@@ -14,7 +14,9 @@
 ### 🛠 Tech Stack
 
 **Languages:**  
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
+![Java][![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)](https://github.com/Leonardo-Nunes1/Codigos-em-Java
+)
+
 
 **Databases:**  
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
