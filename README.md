@@ -14,17 +14,16 @@
 ### 🛠 Tech Stack
 
 **Languages:**  
-[![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)](https://github.com/Leonardo-Nunes1/Codigos-em-Java
-)
-
+[![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/Leonardo-Nunes1/Codigos-em-Java)
 
 **Databases:**  
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)](https://github.com/Leonardo-Nunes1/MySQL
+[![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Leonardo-Nunes1/Codigos-em-Java)
+[![SQL](https://img.shields.io/badge/SQL-grey?style=for-the-badge&logo=database&logoColor=white)](https://github.com/Leonardo-Nunes1/Codigos-em-Java)
 
 **Tools:**  
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -37,4 +36,4 @@
 ---
 
 ### 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]([(https://www.instagram.com/leonardonuness__/)]
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leonardonuness__/)
