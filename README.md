@@ -19,7 +19,7 @@
 
 
 **Databases:**  
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)](https://github.com/Leonardo-Nunes1/MySQL)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)](https://github.com/Leonardo-Nunes1/MySQL
 
 **Tools:**  
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
