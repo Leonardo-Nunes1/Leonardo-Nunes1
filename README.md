@@ -6,7 +6,7 @@
 
 ### 📝 Summary
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas - 3º Semestre
-- 💻 Focado em aprender e desenvolver projetos backend Java
+- 💻 Focado em aprender e desenvolver projetos backend Java com SQL
 - 🚀 Sempre aprendendo novas tecnologias  
 
 ---
@@ -19,7 +19,7 @@
 
 
 **Databases:**  
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)](https://github.com/Leonardo-Nunes1/MySQL)
 
 **Tools:**  
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
@@ -37,4 +37,4 @@
 ---
 
 ### 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]([seu_link](https://www.instagram.com/leonardonuness__/))
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]([(https://www.instagram.com/leonardonuness__/)]
