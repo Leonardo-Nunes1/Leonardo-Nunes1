@@ -17,8 +17,8 @@
 [![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/Leonardo-Nunes1/Codigos-em-Java)
 
 **Databases:**  
-[![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Leonardo-Nunes1/Codigos-em-Java)
-[![SQL](https://img.shields.io/badge/SQL-grey?style=for-the-badge&logo=database&logoColor=white)](https://github.com/Leonardo-Nunes1/Codigos-em-Java)
+[![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Leonardo-Nunes1/MySQL)
+
 
 **Tools:**  
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white)
