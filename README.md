@@ -18,6 +18,7 @@
 
 **Databases:**  
 [![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Leonardo-Nunes1/MySQL)
+[![SQL](https://img.shields.io/badge/SQL-grey?style=for-the-badge&logo=database&logoColor=white)](https://github.com/Leonardo-Nunes1/MySQL)
 
 
 **Tools:**  
